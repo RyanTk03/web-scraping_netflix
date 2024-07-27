@@ -1,0 +1,73 @@
+{
+  "usableSessionsCount": 1,
+  "retiredSessionsCount": 0,
+  "sessions": [
+    {
+      "id": "session_caR4TInCHY",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.4",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "flwssn",
+            "value": "a8a3fa83-3bc3-48bd-bdc7-efffc1c39454",
+            "maxAge": 10800,
+            "domain": "netflix.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2024-07-27T03:58:58.751Z",
+            "lastAccessed": "2024-07-27T03:58:58.751Z"
+          },
+          {
+            "key": "nfvdid",
+            "value": "BQFmAAEBENzL3IDeUPs5kp4eRY6iF9pAboc751qFn46WNkersmrZZm9uyN5pTHUljHUfK-LVUu2d1J-uVRQAVEc-PwbVxaW7Lkkeh_VpKsGrT0eiPPiKVQ%3D%3D",
+            "maxAge": 31536000,
+            "domain": "netflix.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2024-07-27T03:58:58.762Z",
+            "lastAccessed": "2024-07-27T03:58:58.762Z"
+          },
+          {
+            "key": "SecureNetflixId",
+            "value": "v%3D3%26mac%3DAQEAEQABABRfenFpNewa7rOO88AkG6wQsZckoBJfQQY.%26dt%3D1722052742799",
+            "expires": "2025-07-27T03:59:02.000Z",
+            "domain": "netflix.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2024-07-27T03:58:58.764Z",
+            "lastAccessed": "2024-07-27T03:58:58.764Z",
+            "sameSite": "strict"
+          },
+          {
+            "key": "NetflixId",
+            "value": "v%3D3%26ct%3DBgjHlOvcAxK-AUb_ctzsrp-gLyYP7rMUEX_XIj0cJu9_xh0sFdsDWj1Ie431c_ok0WKC8Is9yvXh3eDj0vEhhTw4uj3wVG9sC4lljLGv3bdi5l3wfnUe7urr7SYz65tlpYMyF-2UGnSlTwI13k9X9YdI4YJdmjvaB8vQjzk45m5YVruN9B6ynTO3u-40aWNH1-xWZHpXjLHRjSiUUkRW-NDhfRD28EHRt2m4FrvxHsqm1A15XhcuoMbj875InTqRAuNDZ8VZMSQYBiIOCgzfoVJmttm41LXyMsM.",
+            "expires": "2025-07-27T03:59:02.000Z",
+            "domain": "netflix.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2024-07-27T03:58:58.765Z",
+            "lastAccessed": "2024-07-27T03:58:58.765Z",
+            "sameSite": "lax"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2024-07-27T04:48:56.582Z",
+      "createdAt": "2024-07-27T03:58:56.582Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    }
+  ]
+}
