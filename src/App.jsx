@@ -27,7 +27,8 @@ function App() {
 						{genre && <Showslist shows={scrapingData[0].shows[genre]} />}
 					</main>
 					<footer>
-						Made with ❤ by RyanTk03
+						Made with ❤ by RyanTk03<br />
+						See <a href="/disclaimer" target="_blank">Project Disclaimer</a>
 					</footer>
 				</div>
 			</div>
